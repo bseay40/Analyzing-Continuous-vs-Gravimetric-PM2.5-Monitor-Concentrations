@@ -1,4 +1,5 @@
 # Analyzing-Continuous-vs-Gravimetric-PM2.5-Monitor-Concentrations
+<<<<<<< HEAD
 >An analysis of concentration differences between collocated Gravimetric and Continuous PM2.5 monitors across the United States using data from the U.S. EPA's Air Quality System (AQS). Various parameters will be explored that could help explain the differences (e.g., temperature) and a ML model is used to predict differences based on these factors.
 >In the U.S. EPA National PM2.5 monitoring program, the use of Federal Equivalent Method (FEM) continuous monitors continues to increase in comparison to the Federal Reference Method (FRM) gravimetric monitors. There exists a known bias in 24-hour ambient PM2.5 concentrations between these two methods. Monitoring agencies need to understand these biases, its causes, and determine if PM2.5 continuous monitoring is appropriate for their network. This project aims to investigate these biases, determine the contributing factors, and attempt to predict FRM concentrations based on collocated FEM concentrations and these other factors.
 > A blog post summarizing these results can be found on Medium: https://medium.com/@brannonseay/concentration-analysis-between-epas-continuous-and-gravimetric-pm2-5-monitor-a98bb8ee9cae
@@ -21,3 +22,8 @@
 
 # Licensing, Authors, Acknowledgements
 > All air quality data freely available through EPA's AQS.
+||||||| e1728f1
+An analysis of concentration differences between collocated Gravimetric and Continuous PM2.5 monitors across the United States using data from the U.S. EPA. Various parameters will be explored that could help explain the differences (e.g., temperature) and a ML model is used to predict differences based on these factors.
+=======
+An analysis of concentration differences between collocated Gravimetric and Continuous PM2.5 monitors across the United States using data from the U.S. EPA's Air Quality System (AQS). Various parameters will be explored that could help explain the differences (e.g., temperature) and a ML model is used to predict differences based on these factors.
+>>>>>>> 6b2f3eb6a074278eced4cd2983b446d78e96bd53
